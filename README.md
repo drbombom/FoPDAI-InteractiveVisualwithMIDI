@@ -33,29 +33,29 @@
 
 ## 👨‍🏫 課程團隊
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0;">
-      <a href="https://www.pinghsuan.info/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-        韓秉軒 | Ping-Hsuan Han
-      </a>
-    </h3>
-    <p style="color: #555; line-height: 1.6;">
-      I am an Associate Professor in the Department of Interaction Design at the National Taipei University of Technology. My current research interests include HCI, XR, Multisensory Technology, and Immersive Storytelling.
-    </p>
-    <p style="color: #666; font-size: 0.95em;">
-      pinghsuan.han [at] gmail.com
-    </p>
-    <ul style="list-style-type: none; padding-left: 0; margin-top: 15px;">
-      <li><strong>指導老師</strong>：<a href="https://www.pinghsuan.info/" target="_blank" rel="noopener noreferrer">韓秉軒 Han Ping-Hsuan</a> 副教授</li>
-      <li><strong>助教團隊</strong>：等待名字中~~~~</li>
-      <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="README%20檔案/教授照片2.png" alt="韓秉軒副教授照片" style="max-width: 100%; height: auto; border-radius: 4px;">
-  </div>
-</div>
+<img src="README%20檔案/教授照片2.png" alt="韓秉軒副教授照片" align="right" width="45%">
+
+<h3>
+  <a href="https://www.pinghsuan.info/" target="_blank" rel="noopener noreferrer">
+    韓秉軒 | Ping-Hsuan Han
+  </a>
+</h3>
+
+<p>
+  I am an Associate Professor in the Department of Interaction Design at the National Taipei University of Technology. My current research interests include HCI, XR, Multisensory Technology, and Immersive Storytelling.
+</p>
+
+<p>
+  pinghsuan.han [at] gmail.com
+</p>
+
+<ul>
+  <li><strong>指導老師</strong>：<a href="https://www.pinghsuan.info/" target="_blank" rel="noopener noreferrer">韓秉軒 Han Ping-Hsuan</a> 副教授</li>
+  <li><strong>助教團隊</strong>：等待名字中~~~~</li>
+  <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
+</ul>
+
+<br clear="all">
 
 ## 🌟 教學目標
 本課程旨在引導學生透過互動式視覺與聽覺的結合，增強特定舞台（如舞蹈、音樂劇、戲劇、科技藝術或遊戲體驗等）之表現力。課程內容涵蓋程式語言的基本語法、人工智慧與外部硬體（如 MIDI 控制器）的應用，帶領學生將音樂與空間、程式碼邏輯融為一體，實踐音樂互動式景觀化（Music-Interactive Scenographization）的完整創作。
