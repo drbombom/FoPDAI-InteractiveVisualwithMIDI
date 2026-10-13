@@ -53,7 +53,7 @@
     </ul>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="README%20檔案/%E6%95%99%E8%8D%8F%E7%85%A7%E7%89%872.png" alt="韓秉軒副教授照片" style="max-width: 100%; height: auto; border-radius: 4px;">
+    <img src="README%20檔案/教授照片2.png" alt="韓秉軒副教授照片" style="max-width: 100%; height: auto; border-radius: 4px;">
   </div>
 </div>
 
