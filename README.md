@@ -283,4 +283,4 @@
    - 結合 Particle System 與 Prefab（預製物件）進行模組化佈署與視覺生成，完成最終的聲光互動展演。
 
 ---
-<p align="center">🛠️ 113_FoPDAI_CourseProject | 國立臺北科技大學 互動設計系</p>
+<p align="center">🏫 FoPDAI-Interactive Visual with MIDI | 國立臺北科技大學 互動設計系</p>
