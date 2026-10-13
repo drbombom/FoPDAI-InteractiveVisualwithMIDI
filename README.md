@@ -50,7 +50,6 @@
 </p>
 
 <ul>
-  <li><strong>指導老師</strong>：<a href="https://www.pinghsuan.info/" target="_blank" rel="noopener noreferrer">韓秉軒 Han Ping-Hsuan</a> 副教授</li>
   <li><strong>助教團隊</strong>：等待名字中~~~~</li>
   <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
 </ul>
