@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License">
 </p>
 
-# 🎹🎵 Interactive Generative Art with MIDI Keyboard
-> **113_FoPDAI_課程教材與專案** —— 結合 MIDI 鍵盤、程式設計與視覺互動藝術的教學實踐與成果展示。本專案引導學生透過數位連結（Digital Engagement）探索沉浸式音樂互動景觀化體驗。
+# 🎹🎵 FoPDAI-Interactive Visual with MIDI
+> **課程教材與專案** —— 結合 MIDI 鍵盤、程式設計與視覺互動藝術的教學實踐與成果展示。本專案引導學生透過數位連結（Digital Engagement）探索沉浸式音樂互動景觀化體驗。
 
 ---
 
