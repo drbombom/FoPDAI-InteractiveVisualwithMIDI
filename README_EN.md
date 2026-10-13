@@ -1,4 +1,7 @@
 <p align="right">
+  <a href="./README.md?tab=readme-ov-file#">繁體中文</a> | <b>English</b>
+</p>
+<p align="right">
   <a href="README.md">繁體中文</a> | <b>English</b>
 </p>
 
