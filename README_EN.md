@@ -1,5 +1,10 @@
 <p align="right">
   <a href="README.md">繁體中文</a> | <b>English</b>
+</p>
+
+<p align="center">
+  <a href="https://ixd.ntut.edu.tw/" target="_blank" rel="noopener noreferrer"></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NTUT-IXD-red?style=for-the-badge" alt="NTUT IXD">
@@ -8,7 +13,6 @@
   <img src="https://img.shields.io/badge/Input-MIDI%20Keyboard-orange?style=for-the-badge" alt="MIDI">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License">
 </p>
-
 # 🎹🎵 FoPDAI-Interactive Visual with MIDI
 > **Course Materials & Student Projects** —— Combining MIDI keyboards, programming, and visual interactive art for teaching practice and showcase. This project guides students to explore immersive music-interactive scenographization experiences through digital engagement.
 
