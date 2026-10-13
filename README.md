@@ -1,8 +1,6 @@
 <p align="center">
   尚未更改完畢，學長姐助教們的名字。
-  <a href="https://ixd.ntut.edu.tw/" target="_blank" rel="noopener noreferrer">
-  
-  </a>
+  <a href="https://ixd.ntut.edu.tw/" target="_blank" rel="noopener noreferrer"></a>
 </p>
 
 <p align="center">
@@ -22,7 +20,7 @@
 - [👨‍🏫 課程團隊](#-課程團隊)
 - [🌟 教學目標](#-教學目標)
 - [📺 教材示範影片](#-教材示範影片)
-- [🌟 2026 學生成果展示 (MIDI Control)](#-2026-最新學生成果展示midi-control-展示)
+- [🌟 2026 學生成果展示 (MIDI Control)](#-2026-學生成果展示-midi-control)
 - [🌟 2026 學生成果展示](#-2026-學生成果展示)
 - [🌟 2025 學生成果展示](#-2025-學生成果展示)
 - [🌟 2024 學生成果展示](#-2024-學生成果展示)
@@ -42,8 +40,17 @@
 </h3>
 
 <p>
- 我是國立臺北科技大學互動設計系的副教授。我目前的探討與研究領域包括人機互動（HCI）、擴增與虛擬實境（XR）、多感官技術（Multisensory Technology）以及沉浸式敘事（Immersive Storytelling）。
+  我是國立臺北科技大學互動設計系的副教授。我目前的探討與研究領域包括人機互動（HCI）、擴增與虛擬實境（XR）、多感官技術（Multisensory Technology）以及沉浸式敘事（Immersive Storytelling）。
 </p>
+
+<details>
+  <summary>🌐 <b>English Bio (點擊展開英文簡介)</b></summary>
+  <p style="margin-top: 10px;">
+    I am an Associate Professor in the Department of Interaction Design at the National Taipei University of Technology. My current research interests include HCI, XR, Multisensory Technology, and Immersive Storytelling.
+  </p>
+</details>
+
+<br>
 
 <p>
   pinghsuan.han [at] gmail.com
@@ -128,7 +135,7 @@
     <td width="33.3%" align="center">
       <a href="https://youtu.be/VU8c3B2G0Lo" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/VU8c3B2G0Lo/0.jpg" alt="2026 Result 1" width="100%"><br>
-        🎬FORSAKEN
+        🎬 FORSAKEN
       </a>
     </td>
     <td width="33.3%" align="center">
@@ -181,7 +188,7 @@
     <td width="33.3%" align="center">
       <a href="https://youtu.be/d0j2c98tNHg" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/d0j2c98tNHg/0.jpg" alt="2025 Result 2" width="100%"><br>
-        🎬  igloo
+        🎬 igloo
       </a>
     </td>
     <td width="33.3%" align="center">
@@ -234,7 +241,7 @@
     <td width="33.3%" align="center">
       <a href="https://youtu.be/3BgU5cTgQVs" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/3BgU5cTgQVs/0.jpg" alt="2024 Result 3" width="100%"><br>
-        🎬莊家鈞
+        🎬 莊家鈞
       </a>
     </td>
   </tr>
@@ -252,11 +259,9 @@
       </a>
     </td>
     <td width="33.3%" align="center">
-  <a href="https://www.youtube.com/watch?v=Z16548VLY3Y" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/Z16548VLY3Y/0.jpg" alt="田宏翔 dj音樂特效" width="100%"><br>
-    🎬 田宏翔
-  </a>
-</td>
+      <a href="https://www.youtube.com/watch?v=Z16548VLY3Y" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/Z16548VLY3Y/0.jpg" alt="田宏翔 dj音樂特效" width="100%"><br>
+        🎬 田宏翔
       </a>
     </td>
   </tr>
