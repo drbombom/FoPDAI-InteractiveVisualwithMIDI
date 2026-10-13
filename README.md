@@ -1,5 +1,5 @@
 <p align="center">
-  尚未更改完畢，字，內容，老師個人簡介，學長姐助教們的名字。
+  尚未更改完畢，學長姐助教們的名字。
   <a href="https://ixd.ntut.edu.tw/" target="_blank" rel="noopener noreferrer">
   
   </a>
@@ -33,19 +33,13 @@
 
 ## 👨‍🏫 課程團隊
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <div>
-    <img src="README%20檔案/%E9%9F%93%E7%A7%89%E8%BB%92%E7%85%A7%E7%89%87.jpeg" alt="韓秉軒副教授照片" width="150" style="border-radius: 8px;">
-  </div>
-  <div>
-    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li><strong>指導老師</strong>：<a href="https://ixd.ntut.edu.tw/p/406-1089-110727,r1713.php?Lang=zh-tw" target="_blank" rel="noopener noreferrer">韓秉軒 Han Ping-Hsuan</a> 副教授</li>
-      <li><strong>助教團隊</strong>：等待名字中~~~~</li>
-      <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
-    </ul>
-  </div>
+<div style="margin-bottom: 20px;">
+  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+    <li><strong>指導老師</strong>：<a href="https://www.pinghsuan.info/" target="_blank" rel="noopener noreferrer">韓秉軒 Han Ping-Hsuan</a> 副教授</li>
+    <li><strong>助教團隊</strong>：等待名字中~~~~</li>
+    <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
+  </ul>
 </div>
-
 ---
 
 ## 🌟 教學目標
