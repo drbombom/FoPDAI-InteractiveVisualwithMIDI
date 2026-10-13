@@ -1,8 +1,8 @@
 <p align="right">
   <b>繁體中文</b> | <a href="README_EN.md">English</a>
 </p>
+
 <p align="center">
-  尚未更改完畢，學長姐助教們的名字。
   <a href="https://ixd.ntut.edu.tw/" target="_blank" rel="noopener noreferrer"></a>
 </p>
 
@@ -46,15 +46,6 @@
   我是國立臺北科技大學互動設計系的副教授。我目前的探討與研究領域包括人機互動（HCI）、擴增與虛擬實境（XR）、多感官技術（Multisensory Technology）以及沉浸式敘事（Immersive Storytelling）。
 </p>
 
-<details>
-  <summary>🌐 <b>English Bio (點擊展開英文簡介)</b></summary>
-  <p style="margin-top: 10px;">
-    I am an Associate Professor in the Department of Interaction Design at the National Taipei University of Technology. My current research interests include HCI, XR, Multisensory Technology, and Immersive Storytelling.
-  </p>
-</details>
-
-<br>
-
 <p>
   pinghsuan.han [at] gmail.com
 </p>
@@ -80,7 +71,6 @@
     🎬 點擊觀看 FoPDAI - Practice 2 教材示範影片
   </a>
 </p>
-
 
 ---
 
