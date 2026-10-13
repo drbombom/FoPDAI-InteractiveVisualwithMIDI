@@ -42,7 +42,7 @@
 </h3>
 
 <p>
-  I am an Associate Professor in the Department of Interaction Design at the National Taipei University of Technology. My current research interests include HCI, XR, Multisensory Technology, and Immersive Storytelling.
+ 我是國立臺北科技大學互動設計系的副教授。我目前的探討與研究領域包括人機互動（HCI）、擴增與虛擬實境（XR）、多感官技術（Multisensory Technology）以及沉浸式敘事（Immersive Storytelling）。
 </p>
 
 <p>
