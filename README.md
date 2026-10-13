@@ -1,6 +1,6 @@
 <p align="right">
-  <b>繁體中文</b> | <a href="README_EN.md">English</a>
-</p>
+  <b>繁體中文</b> | <a href="./README_EN.md?tab=readme-ov-file#">English</a>
+</p>>
 
 <p align="center">
   <a href="https://ixd.ntut.edu.tw/" target="_blank" rel="noopener noreferrer"></a>
