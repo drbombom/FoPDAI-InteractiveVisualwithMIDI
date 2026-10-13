@@ -1,11 +1,5 @@
 <p align="right">
   <a href="README.md">繁體中文</a> | <b>English</b>
-</p>
-
-<p align="center">
-  Teaching assistants' names to be updated.
-  <a href="https://ixd.ntut.edu.tw/" target="_blank" rel="noopener noreferrer"></a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NTUT-IXD-red?style=for-the-badge" alt="NTUT IXD">
