@@ -68,7 +68,7 @@
 <ul style="margin-top: 20px;">
   <li><strong>Department</strong>: Department of Interaction Design, National Taipei University of Technology (IxD, NTUT)</li>
   <li><strong>Instructors</strong>: Assoc. Prof. Ping-Hsuan Han, Asst. Prof. Tse-Yu Pan</li>
-  <li><strong>Teaching Assistants</strong>: Yanhua Lai, Guanyu Zhou, Jianyou Chen, Weizhe Zhuang, I-Ning Kung</li>
+  <li><strong>Teaching Assistants</strong>: 賴彥華、周冠諭、陳建佑、莊惟喆、孔奕寧</li>
 </ul>
 
 ---
