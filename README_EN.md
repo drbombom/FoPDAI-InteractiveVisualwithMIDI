@@ -1,6 +1,7 @@
 <p align="right">
   <a href="./README.md?tab=readme-ov-file#">繁體中文</a> | <b>English</b>
 </p>
+
 <p align="center">
   <a href="https://ixd.ntut.edu.tw/" target="_blank" rel="noopener noreferrer"></a>
 </p>
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/Input-MIDI%20Keyboard-orange?style=for-the-badge" alt="MIDI">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License">
 </p>
+
 # 🎹🎵 FoPDAI-Interactive Visual with MIDI
 > **Course Materials & Student Projects** —— Combining MIDI keyboards, programming, and visual interactive art for teaching practice and showcase. This project guides students to explore immersive music-interactive scenographization experiences through digital engagement.
 
@@ -32,28 +34,42 @@
 
 ## 👨‍🏫 Course Team
 
-<img src="README%20檔案/教授照片2.png" alt="Associate Professor Ping-Hsuan Han" align="right" width="45%">
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Left Column: Prof. Ping-Hsuan Han -->
+    <td width="50%" valign="top" style="border: none; border-right: 2px solid #e1e4e8; padding-right: 20px;">
+      <h3 style="margin-top: 0;">
+        <a href="https://www.pinghsuan.info/" target="_blank" rel="noopener noreferrer">
+          Ping-Hsuan Han | 韓秉軒
+        </a>
+      </h3>
+      <p>
+        Associate Professor in the Department of Interaction Design at the National Taipei University of Technology. Research interests include HCI, XR, Multisensory Technology, and Immersive Storytelling.
+      </p>
+      <p>
+        pinghsuan.han [at] gmail.com
+      </p>
+    </td>
+    <!-- Right Column: Prof. Tse-Yu Pan -->
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3 style="margin-top: 0;">
+        Tse-Yu Pan | 潘則佑
+      </h3>
+      <p>
+        Assistant Professor at the Graduate Institute of Artificial Intelligence Across Domains, National Taiwan University of Science and Technology. Research fields include Computer Vision (CV), Multimedia Content Analysis, XR, and HCI.
+      </p>
+      <p>
+        typan [at] mail.ntust.edu.tw
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3>
-  <a href="https://www.pinghsuan.info/" target="_blank" rel="noopener noreferrer">
-    Ping-Hsuan Han | 韓秉軒
-  </a>
-</h3>
-
-<p>
-  I am an Associate Professor in the Department of Interaction Design at the National Taipei University of Technology. My current research interests include HCI, XR, Multisensory Technology, and Immersive Storytelling.
-</p>
-
-<p>
-  pinghsuan.han [at] gmail.com
-</p>
-
-<ul>
-  <li><strong>Teaching Assistant Team</strong>: Names pending~~~~</li>
+<ul style="margin-top: 20px;">
   <li><strong>Department</strong>: Department of Interaction Design, National Taipei University of Technology (IxD, NTUT)</li>
+  <li><strong>Instructors</strong>: Assoc. Prof. Ping-Hsuan Han, Asst. Prof. Tse-Yu Pan</li>
+  <li><strong>Teaching Assistants</strong>: Yanhua Lai, Guanyu Zhou, Jianyou Chen, Weizhe Zhuang, I-Ning Kung</li>
 </ul>
-
-<br clear="all">
 
 ---
 
