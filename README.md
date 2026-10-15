@@ -44,7 +44,7 @@
         </a>
       </h3>
       <p>
-       現任國立臺北科技大學互動設計系副教授，研究領域涵蓋人機互動（HCI）、擴增與虛擬實境（XR）、多感官技術（Multisensory Technology）及沉浸式敘事（Immersive Storytelling）。
+        現任國立臺北科技大學互動設計系副教授，研究領域涵蓋人機互動（HCI）、擴增與虛擬實境（XR）、多感官技術（Multisensory Technology）及沉浸式敘事（Immersive Storytelling）。
       </p>
       <p>
         pinghsuan.han [at] gmail.com
@@ -53,7 +53,9 @@
     <!-- 右欄：潘則佑老師 -->
     <td width="50%" valign="top" style="border: none; padding-left: 20px;">
       <h3 style="margin-top: 0;">
-        潘則佑 | Tse-Yu Pan
+        <a href="https://sites.google.com/view/ntust-miislab" target="_blank" rel="noopener noreferrer">
+          潘則佑 | Tse-Yu Pan
+        </a>
       </h3>
       <p>
         現任國立臺灣科技大學人工智慧跨域科技研究所助理教授，研究領域涵蓋電腦視覺（CV）、多媒體內容分析（Multimedia Content Analysis）、擴增與虛擬實境（XR）及人機互動（HCI）。
@@ -70,7 +72,6 @@
   <li><strong>指導老師</strong>：韓秉軒 副教授、潘則佑 助理教授</li>
   <li><strong>助教團隊</strong>：賴彥華、周冠諭、陳建佑、莊惟喆、孔奕寧</li>
 </ul>
-
 ---
 
 ## 🌟 教學目標
