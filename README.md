@@ -44,7 +44,7 @@
         </a>
       </h3>
       <p>
-        我是國立臺北科技大學互動設計系的副教授。我目前的探討與研究領域包括人機互動（HCI）、擴增與虛擬實境（XR）、多感官技術（Multisensory Technology）以及沉浸式敘事（Immersive Storytelling）。
+       現任國立臺北科技大學互動設計系副教授，研究領域涵蓋人機互動（HCI）、擴增與虛擬實境（XR）、多感官技術（Multisensory Technology）及沉浸式敘事（Immersive Storytelling）。
       </p>
       <p>
         pinghsuan.han [at] gmail.com
@@ -70,7 +70,9 @@
   <li><strong>指導老師</strong>：韓秉軒 副教授、潘則佑 助理教授</li>
   <li><strong>助教團隊</strong>：賴彥華、周冠諭、陳建佑、莊惟喆、孔奕寧</li>
 </ul>
+
 ---
+
 ## 🌟 教學目標
 本課程旨在引導學生透過互動式視覺與聽覺的結合，增強特定舞台（如舞蹈、音樂劇、戲劇、科技藝術或遊戲體驗等）之表現力。課程內容涵蓋程式語言的基本語法、人工智慧與外部硬體（如 MIDI 控制器）的應用，帶領學生將音樂與空間、程式碼邏輯融為一體，實踐音樂互動式景觀化（Music-Interactive Scenographization）的完整創作。
 
