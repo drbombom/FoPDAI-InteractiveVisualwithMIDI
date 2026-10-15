@@ -53,7 +53,9 @@
     <!-- Right Column: Prof. Tse-Yu Pan -->
     <td width="50%" valign="top" style="border: none; padding-left: 20px;">
       <h3 style="margin-top: 0;">
+         <a href="https://sites.google.com/view/ntust-miislab" target="_blank" rel="noopener noreferrer">
         Tse-Yu Pan | 潘則佑
+            </a>
       </h3>
       <p>
         Assistant Professor at the Graduate Institute of Artificial Intelligence Across Domains, National Taiwan University of Science and Technology. Research fields include Computer Vision (CV), Multimedia Content Analysis, XR, and HCI.
