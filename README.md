@@ -49,10 +49,6 @@
       <p>
         pinghsuan.han [at] gmail.com
       </p>
-      <ul style="padding-left: 20px; margin-bottom: 0;">
-        <li><strong>指導老師</strong>：韓秉軒 副教授</li>
-        <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
-      </ul>
     </td>
     <!-- 右欄：潘則佑老師 -->
     <td width="50%" valign="top" style="border: none; padding-left: 20px;">
@@ -65,18 +61,15 @@
       <p>
         typan [at] mail.ntust.edu.tw
       </p>
-      <ul style="padding-left: 20px; margin-bottom: 0;">
-        <li><strong>指導老師</strong>：潘則佑 助理教授</li>
-        <li><strong>開課單位</strong>：國立臺灣科技大學 人工智慧跨域科技研究所</li>
-      </ul>
     </td>
   </tr>
 </table>
 
 <ul style="margin-top: 20px;">
+  <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
+  <li><strong>指導老師</strong>：韓秉軒 副教授、潘則佑 助理教授</li>
   <li><strong>助教團隊</strong>：賴彥華、周冠諭、陳建佑、莊惟喆、孔奕寧</li>
 </ul>
-
 ---
 ## 🌟 教學目標
 本課程旨在引導學生透過互動式視覺與聽覺的結合，增強特定舞台（如舞蹈、音樂劇、戲劇、科技藝術或遊戲體驗等）之表現力。課程內容涵蓋程式語言的基本語法、人工智慧與外部硬體（如 MIDI 控制器）的應用，帶領學生將音樂與空間、程式碼邏輯融為一體，實踐音樂互動式景觀化（Music-Interactive Scenographization）的完整創作。
